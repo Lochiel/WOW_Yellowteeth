@@ -1,0 +1,19 @@
+The MOSFET's are on the Right. The green terminals are on the left.
+
+1st Terminal - Heater One
+2nd Terminal - Heater Four
+3rd Terminal - Heater Three
+4th Terminal - Heater Five
+5th Terminal - Heater Two
+
+6th Terminal - Vibration Sensor
+
+7th Terminal - Tempature Sensor Power
+8th Terminal - Tempature Sensor Ground
+9th Terminal - Tempature Sensor Data lines
+	Top - Right Tempature Sensor
+	Bottom - Left Tempature Sensor
+	
+Notes:
+	The following heaters are interchangable: 1&4, 3&5
+	The Tempature Sensor Data lines ARE NOT interchangeable. Getting them wrong will quickly lead to one heater running away until the temp values diverge enough to hit the fail safe.
